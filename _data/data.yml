@@ -116,8 +116,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Komputer
-        level: 80%
+      - name: Operasi Komputer
+        level: 90%
 
       - name: Program
         level: 78%
@@ -126,10 +126,10 @@ skills:
         level: 80%
 
       - name: Internet
-        level: 90%
+        level: 85%
 
-      - name: Sketch & Photoshop
-        level: 70%
+      - name: Driving Licence SIM C
+        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
