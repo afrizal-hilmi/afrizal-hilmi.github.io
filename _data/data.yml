@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Tri Afrizal Hilmi, S.Pd.
-    tagline: Full Stack Developer
+    tagline: English Bachelor's Degree
     avatar: trii.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -31,17 +31,14 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: #Spanish
-        level: #Professional
-
     interests:
-      - item: Climbing
+      - item: Coding
         link:
 
-      - item: Snowboarding
+      - item: Jamming
         link:
 
-      - item: Cooking
+      - item: Teaching
         link:
 
 career-profile:
@@ -56,9 +53,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: S-1 Pendidikan Bahasa Inggris
+      university: Universitas Wiralodra Indramayu
+      time: 2012 / 2016
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +66,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Pharmacist Assistant
+      university: SMK Muhammadiyah Jatibarang
+      time: 2008 / 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -83,9 +80,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Teacher
+      time: 2018 - Present
+      company: Global Mandiri School Patrol, Indramayu
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -94,72 +91,40 @@ experiences:
         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
         error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi.
 
-          - Bullet point
-          - Bullet point
+#projects:
+    #title: Projects
+    #intro: >
+     # You can list your side projects or open source libraries in this
+     # section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+     # Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+  #  assignments:
+    #  - title: Velocity
+     #   link: "#hook"
+     #   tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-          - Bullet point
-          - Bullet point
+      #- title: DevStudio
+       # link: "#"
+       # tagline: "A responsive website template designed to help web developers/designers market their services."
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+    #  - title: Tempo
+       # link: "#"
+       # tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-          - Bullet point
-          - Bullet point
+      #- title: Atom
+       # link: "#"
+       # tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+     # - title: Delta
+      #  link: "#"
+       # tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      My research paper
 
     papers:
       - title: The Art of Computer Programming
