@@ -63,9 +63,6 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
-
     - degree: Pharmacist Assistant
       university: SMK Muhammadiyah Jatibarang
       time: 2008 / 2011
@@ -75,9 +72,6 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: Teacher
@@ -124,20 +118,12 @@ experiences:
 publications:
     title: Publications
     intro: |
-      My research paper
+      
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: The Effectiveness of Question Answer Relationship (QAR) in Increasing Student's Reading Comprehension
+        authors: Tri Afrizal Hilmi, S.Pd.
+        conference: 2016
 
 skills:
     title: Skills &amp; Proficiency
