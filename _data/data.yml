@@ -44,9 +44,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Anak ketiga dari tiga bersaudara, dengan data diri sebagai berikut:
-      
-      Nama: Tri Afrizal Hilmi
+      Anak ketiga dari tiga bersaudara dengan nama lengkap Tri Afrizal Hilmi, alias Rizal. Lahir di Indramayu 30 November 1992. Beralamat di Dusun Patrol Rt 03/01 Desa Patrol Lor, Patrol - Indramayu, 45258.
 
 education:
     - degree: S-1 Pendidikan Bahasa Inggris
@@ -74,7 +72,7 @@ experiences:
       time: 2018 - Present
       company: Global Mandiri School Patrol, Indramayu
       details: |
-        
+        Mengajar di sekolah swasta Global Mandiri School Patrol, Indramayu.
         
 #projects:
     #title: Projects
@@ -118,23 +116,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Komputer
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Program
+        level: 78%
 
-      - name: Angular
-        level: 98%
+      - name: Ms. Office
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
+      - name: Internet
+        level: 90%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
